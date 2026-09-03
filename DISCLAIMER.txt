@@ -1,0 +1,33 @@
+=========================================================
+ mpGrab 1.1.0 — by RockHouse (https://ko-fi.com/rockhouse)
+=========================================================
+
+DISCLAIMER / LEGAL NOTICE
+
+mpGrab is provided "as is", without warranty of any kind, express or
+implied. In no event shall the author be liable for any claim, damages
+or other liability arising from the use of this software.
+
+You are responsible for using mpGrab lawfully: only download content
+you own or have permission to save, and respect the terms of service
+of each platform as well as the copyright law of your country.
+
+PRIVACY
+
+mpGrab does not collect, store or transmit any personal data. Network
+requests go directly from your device to the video platform. Cookies
+you import via Settings > Login stay on your PC and are only used for
+the downloads you start.
+
+THIRD-PARTY COMPONENTS
+
+- yt-dlp        (Unlicense)   download engine
+- CustomTkinter (CC0)         GUI framework
+- pystray       (LGPL-3.0)    system tray support
+- Pillow        (MIT-CMU)     imaging
+- ffmpeg        (external binary, NOT bundled) media processing
+
+If you distribute mpGrab together with an ffmpeg binary, comply with
+that build's license (GPL builds require a corresponding source offer).
+
+mpGrab name and artwork: RockHouse.
