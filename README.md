@@ -7,9 +7,8 @@ Paste a link, pick a format, done — powered by the actively maintained **yt-dl
 
 Grab the latest installer from the [Releases page](https://github.com/kawah24/mpGrab/releases):
 
-- `mpGrab-1.1.0-setup.exe` — per-user Windows installer (no admin needed, Start-menu + desktop shortcuts, uninstaller)
-- `mpGrab-1.1.0-win64.zip` — portable zip, just unzip and run
-
+- `mpGrab-<version>-setup.exe` - per-user Windows installer (no admin needed, Start-menu + desktop shortcuts, uninstaller)
+- `mpGrab-<version>-win64.zip` - portable zip, just unzip and run
 ## Features
 
 - **Four clean tabs** — Search, Downloads, Settings, About
