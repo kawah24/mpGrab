@@ -3,6 +3,25 @@
 **mpGrab** is a free, friendly video downloader and converter for Windows by [RockHouse](https://ko-fi.com/rockhouse).
 Paste a link, pick a format, done - powered by the actively maintained **yt-dlp** engine.
 
+<p align="center">
+  <a href="https://github.com/kawah24/mpGrab/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Windows%20installer-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows installer">
+  </a>
+  &nbsp;
+  <a href="https://github.com/kawah24/mpGrab/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Portable%20ZIP-0d6efd?style=for-the-badge&logo=github&logoColor=white" alt="Download portable ZIP">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kawah24/mpGrab/releases/latest">
+    <img src="https://img.shields.io/github/v/release/kawah24/mpGrab?style=flat-square&label=Latest%20release" alt="Latest release">
+  </a>
+  <a href="https://github.com/kawah24/mpGrab/releases">
+    <img src="https://img.shields.io/github/downloads/kawah24/mpGrab/total?style=flat-square" alt="Downloads">
+  </a>
+</p>
+
 ## Screenshots
 
 | | |
@@ -14,10 +33,12 @@ Paste a link, pick a format, done - powered by the actively maintained **yt-dlp*
 
 ## Download
 
-Grab the latest installer from the [Releases page](https://github.com/kawah24/mpGrab/releases):
+Grab the latest build from the [Releases page](https://github.com/kawah24/mpGrab/releases/latest):
 
-- `mpGrab-<version>-setup.exe` - per-user Windows installer (no admin needed, Start-menu + desktop shortcuts, uninstaller)
-- `mpGrab-<version>-win64.zip` - portable zip, just unzip and run
+- [**mpGrab setup.exe**](https://github.com/kawah24/mpGrab/releases/latest) — per-user Windows installer (no admin needed, Start-menu + desktop shortcuts, uninstaller)
+- [**mpGrab win64.zip**](https://github.com/kawah24/mpGrab/releases/latest) — portable zip, just unzip and run
+
+Both buttons above open the latest Release. Pick `.exe` or `.zip` on that page.
 
 ## Getting started
 
