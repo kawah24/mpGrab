@@ -41,6 +41,7 @@ Grab the latest installer from the [Releases page](https://github.com/kawah24/mp
 - **"Sign in to confirm you're not a bot"?** Open Settings → Login and import cookies from your browser (Chrome, Firefox, Edge, ...).
 - **Some formats are disabled?** Install [ffmpeg](https://ffmpeg.org) and restart mpGrab - it unlocks best-quality merging and MP3/M4A conversion.
 - **Where are my files?** In your chosen folder (Settings → Folder, or the folder picker right next to the format selector).
+- **Windows SmartScreen says "Windows protected your PC"?** The installer is not code-signed yet - click **More info** and then **Run anyway**. Nothing was detected; Windows just shows this for apps without a digital signature.
 - mpGrab checks GitHub on startup and shows a banner when a new version is available - you can turn that off in Settings.
 
 ## Feedback & support
