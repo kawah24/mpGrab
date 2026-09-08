@@ -30,6 +30,9 @@ Grab the latest installer from the [Releases page](https://github.com/kawah24/mp
 
 - **Search YouTube** directly and queue results with thumbnails
 - **Formats**: Best quality, 1080p / 720p / 480p, MP3 192 kbit/s, M4A
+- **Pause & resume** - pause a running download and continue it later without losing progress
+- **Download history** - finished downloads are remembered with one-click open-folder and re-download
+- **Clear queue table** - Portal, Title, Quality, Format and live progress for every item
 - **Clean file names**: `Artist - Title` with the thumbnail embedded as cover art
 - **13 interface languages** - English, Deutsch, Türkçe, Español, Français, Italiano, Português, Русский, العربية, 中文, 日本語, 한국어, Nederlands
 - **Dark & light themes** with four accent colors - persisted between runs
