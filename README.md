@@ -1,7 +1,16 @@
 # mpGrab
 
 **mpGrab** is a free, friendly video downloader and converter for Windows by [RockHouse](https://ko-fi.com/rockhouse).
-Paste a link, pick a format, done — powered by the actively maintained **yt-dlp** engine.
+Paste a link, pick a format, done - powered by the actively maintained **yt-dlp** engine.
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Search results](Screenshot/Screenshot_3.jpg) | ![Downloads queue](Screenshot/Screenshot_2.jpg) |
+| *Search YouTube and queue results* | *Queue with Portal, Title, Quality, Format and Progress* |
+| ![Downloads tab](Screenshot/Screenshot_1.jpg) | ![Settings](Screenshot/Screenshot_4.jpg) |
+| *Paste a link, pick a format and folder* | *Dark & light themes with accent colors* |
 
 ## Download
 
@@ -9,49 +18,35 @@ Grab the latest installer from the [Releases page](https://github.com/kawah24/mp
 
 - `mpGrab-<version>-setup.exe` - per-user Windows installer (no admin needed, Start-menu + desktop shortcuts, uninstaller)
 - `mpGrab-<version>-win64.zip` - portable zip, just unzip and run
-## Features
 
-- **Four clean tabs** — Search, Downloads, Settings, About
+## Getting started
+
+1. Install and start mpGrab.
+2. Paste a video link (mpGrab can even watch your clipboard) or use the built-in **Search** tab.
+3. Pick a format - Best quality, 1080p / 720p / 480p, MP3 or M4A - and a folder.
+4. Click **Add to queue** and watch the queue: Portal, Title, Quality, Format and live progress.
+
+## Highlights
+
 - **Search YouTube** directly and queue results with thumbnails
 - **Formats**: Best quality, 1080p / 720p / 480p, MP3 192 kbit/s, M4A
-- **Clean file names**: `Artist - Title` (uploader/channel fallback) with the thumbnail embedded as cover art
-- **13 interface languages**: English, Deutsch, Türkçe, Español, Français, Italiano, Português, Русский, العربية, 中文, 日本語, 한국어, Nederlands
-- **Dark & light themes** with four accent colors — persisted between runs
-- **Settings**: output folder, metadata (ID3 tags), clipboard monitoring, notifications, browser-cookie login for YouTube, proxy support (with authentication), system-tray minimize, WebM preference, force IPv4
-- **Download queue** with per-item progress, speed, ETA and cancel
-- Graceful fallback when ffmpeg is not installed
+- **Clean file names**: `Artist - Title` with the thumbnail embedded as cover art
+- **13 interface languages** - English, Deutsch, Türkçe, Español, Français, Italiano, Português, Русский, العربية, 中文, 日本語, 한국어, Nederlands
+- **Dark & light themes** with four accent colors - persisted between runs
+- **Clipboard monitoring**, browser-cookie login for age-restricted videos, proxy support, system-tray minimize
+- **Update check** - mpGrab tells you (in-app) when a new version is published here
 
-## Quick start (from source)
+## Tips & troubleshooting
 
-```
-py -3.12 -m venv .venv
-.venv\Scripts\pip install -r requirements.txt
-.venv\Scripts\python main.py
-```
+- **"Sign in to confirm you're not a bot"?** Open Settings → Login and import cookies from your browser (Chrome, Firefox, Edge, ...).
+- **Some formats are disabled?** Install [ffmpeg](https://ffmpeg.org) and restart mpGrab - it unlocks best-quality merging and MP3/M4A conversion.
+- **Where are my files?** In your chosen folder (Settings → Folder, or the folder picker right next to the format selector).
+- mpGrab checks GitHub on startup and shows a banner when a new version is available - you can turn that off in Settings.
 
-Or simply double-click `run.bat` (uses the bundled `.venv`).
+## Feedback & support
 
-## Build releases
-
-- `build_exe.bat` — standalone `dist\mpGrab.exe` (PyInstaller one-file)
-- `make_release.bat` — exe + installer (`dist\installer\mpGrab-1.1.0-setup.exe`) + portable zip (requires [Inno Setup 6](https://jrsoftware.org/isinfo.php))
-
-## Project layout
-
-```
-main.py              entry point
-core/config.py       persistent settings (%APPDATA%\mpGrab)
-core/downloader.py   yt-dlp engine wrapper + download queue
-core/search.py       YouTube search
-core/i18n*.py        UI translations (13 languages)
-ui/                  CustomTkinter interface (tabs, toasts, tray)
-tests/               unit + GUI smoke tests
-```
+Found a bug or have an idea? [Open an issue](https://github.com/kawah24/mpGrab/issues) or reach [RockHouse](https://ko-fi.com/rockhouse) on Ko-fi - and if mpGrab saves you time, a coffee is always appreciated. ☕
 
 ## Legal
 
-mpGrab is provided "as is", without warranty of any kind. You are responsible for using it lawfully:
-only download content you own or have permission to save, and respect each platform's terms and your
-local copyright law. mpGrab does not collect or transmit any personal data — see `DISCLAIMER.txt`.
-
-Support the project: ☕ [ko-fi.com/rockhouse](https://ko-fi.com/rockhouse)
+mpGrab is a download manager for personal use. Please respect the rights of content creators and the terms of service of the platforms you download from - mpGrab is not affiliated with YouTube or any other platform.
