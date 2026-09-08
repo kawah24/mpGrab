@@ -22,6 +22,12 @@ Paste a link, pick a format, done - powered by the actively maintained **yt-dlp*
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/rockhouse">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee on Ko-fi">
+  </a>
+</p>
+
 ## Screenshots
 
 | | |
@@ -70,7 +76,8 @@ Both buttons above open the latest Release. Pick `.exe` or `.zip` on that page.
 
 ## Feedback & support
 
-Found a bug or have an idea? [Open an issue](https://github.com/kawah24/mpGrab/issues) or reach [RockHouse](https://ko-fi.com/rockhouse) on Ko-fi - and if mpGrab saves you time, a coffee is always appreciated. ☕
+Found a bug or have an idea? [Open an issue](https://github.com/kawah24/mpGrab/issues) 
+or reach [RockHouse](https://ko-fi.com/rockhouse) on Ko-fi - and if mpGrab saves you time, a coffee is always appreciated. ☕
 
 ## Legal
 
