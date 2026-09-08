@@ -25,7 +25,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>mpGrab</Program_Name>
-    <Program_Version>1.4.0</Program_Version>
+    <Program_Version>1.4.4</Program_Version>
     <Program_Release_Month>09</Program_Release_Month>
     <Program_Release_Day>08</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -33,11 +33,11 @@
     <Program_Cost_Other_Code>0</Program_Cost_Other_Code>
     <Program_Cost_Other></Program_Cost_Other>
     <Program_Type>Freeware</Program_Type>
-    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Win10,Win11</Program_OS_Support>
     <Program_Language>English,German,Turkish,Spanish,French,Italian,Portuguese,Russian,Arabic,ChineseSimplified,Japanese,Korean,Dutch</Program_Language>
-    <Program_Change_Info>New: pause &amp; resume, Open folder button, Download history tab, window-anchored notifications.</Program_Change_Info>
+    <Program_Change_Info>Installer now auto-closes a running mpGrab during setup; minor fixes.</Program_Change_Info>
     <Program_Sys_Requirements>Windows 10 or 11, 64-bit. Optional ffmpeg for best-quality merging and MP3/M4A conversion.</Program_Sys_Requirements>
     <Program_Category_Class>Network and Internet</Program_Category_Class>
     <Program_Category>Download Managers</Program_Category>
@@ -79,8 +79,8 @@ mpGrab is a download manager for personal use. Please respect the rights of cont
       <Application_PAD_File_URL>https://raw.githubusercontent.com/kawah24/mpGrab/main/pad_file.xml</Application_PAD_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.0/mpGrab-1.4.0-setup.exe</Primary_Download_URL>
-      <Secondary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.0/mpGrab-1.4.0-win64.zip</Secondary_Download_URL>
+      <Primary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.4/mpGrab-1.4.4-setup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.4/mpGrab-1.4.4-win64.zip</Secondary_Download_URL>
       <Additional_Download_URL_1></Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
