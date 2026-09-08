@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>mpGrab PAD generator</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disperse information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>RockHouse</Company_Name>
+    <Company_WebSite_URL>https://github.com/kawah24/mpGrab</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>FIRST_NAME_HERE</Contact_First_Name>
+      <Contact_Last_Name>LAST_NAME_HERE</Contact_Last_Name>
+      <Contact_Email>EMAIL_HERE</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email></Sales_Email>
+      <Support_Email>SUPPORT_EMAIL_HERE</Support_Email>
+      <General_Email>SUPPORT_EMAIL_HERE</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>mpGrab</Program_Name>
+    <Program_Version>1.4.0</Program_Version>
+    <Program_Release_Month>09</Program_Release_Month>
+    <Program_Release_Day>08</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>0</Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English,German,Turkish,Spanish,French,Italian,Portuguese,Russian,Arabic,ChineseSimplified,Japanese,Korean,Dutch</Program_Language>
+    <Program_Change_Info>New: pause &amp; resume, Open folder button, Download history tab, window-anchored notifications.</Program_Change_Info>
+    <Program_Sys_Requirements>Windows 10 or 11, 64-bit. Optional ffmpeg for best-quality merging and MP3/M4A conversion.</Program_Sys_Requirements>
+    <Program_Category_Class>Network and Internet</Program_Category_Class>
+    <Program_Category>Download Managers</Program_Category>
+    <Program_Keywords>youtube,video downloader,mp3,m4a,audio downloader,yt-dlp,download manager,converter</Program_Keywords>
+    <Program_Categories>Network and Internet::Download Managers</Program_Categories>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Char_Desc_45>Free, friendly video downloader for Windows.</Char_Desc_45>
+      <Char_Desc_80>mpGrab - free video downloader and converter for Windows, powered by yt-dlp.</Char_Desc_80>
+      <Char_Desc_250>mpGrab is a free, friendly video downloader and converter for Windows by RockHouse. Paste a link, pick a format, done - powered by the actively maintained yt-dlp engine. Search YouTube, queue results, pause &amp; resume downloads.</Char_Desc_250>
+      <Char_Desc_450>mpGrab is a free, friendly video downloader and converter for Windows by RockHouse. Paste a link, pick a format, done - powered by the actively maintained yt-dlp engine. Search YouTube directly and queue results with thumbnails. Formats: Best quality, 1080p/720p/480p, MP3 192 kbit/s, M4A. Pause &amp; resume, download history, clean file names with embedded cover art, 13 interface languages, dark &amp; light themes.</Char_Desc_450>
+      <Char_Desc_2000>mpGrab is a free, friendly video downloader and converter for Windows by RockHouse. Paste a link, pick a format, done - powered by the actively maintained yt-dlp engine.
+
+Features:
+- Search YouTube directly and queue results with thumbnails
+- Formats: Best quality, 1080p / 720p / 480p, MP3 192 kbit/s, M4A
+- Pause &amp; resume - interrupted downloads continue without losing progress
+- Download history - finished downloads are remembered with one-click open-folder and re-download
+- Clear queue table - Portal, Title, Quality, Format and live progress for every item
+- Clean file names: Artist - Title with the thumbnail embedded as cover art
+- 13 interface languages: English, Deutsch, Turkish, Spanish, French, Italian, Portuguese, Russian, Arabic, Chinese, Japanese, Korean, Dutch
+- Dark &amp; light themes with four accent colors - persisted between runs
+- Clipboard monitoring, browser-cookie login for age-restricted videos, proxy support, system-tray minimize
+- In-app update notifications
+
+mpGrab is a download manager for personal use. Please respect the rights of content creators and the terms of service of the platforms you download from.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/kawah24/mpGrab</Application_Info_URL>
+      <Application_Order_URL>https://github.com/kawah24/mpGrab/releases</Application_Order_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/kawah24/mpGrab/main/Screenshot/Screenshot_1.jpg</Application_Screenshot_URL>
+      <Application_Screenshot_URL_2>https://raw.githubusercontent.com/kawah24/mpGrab/main/Screenshot/Screenshot_2.jpg</Application_Screenshot_URL_2>
+      <Application_Screenshot_URL_3>https://raw.githubusercontent.com/kawah24/mpGrab/main/Screenshot/Screenshot_3.jpg</Application_Screenshot_URL_3>
+      <Application_Screenshot_URL_4>https://raw.githubusercontent.com/kawah24/mpGrab/main/Screenshot/Screenshot_4.jpg</Application_Screenshot_URL_4>
+      <Application_Icon_URL>https://raw.githubusercontent.com/kawah24/mpGrab/main/assets/vidgrab.ico</Application_Icon_URL>
+      <Application_PAD_File_URL>PAD_URL_HERE</Application_PAD_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.0/mpGrab-1.4.0-setup.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.0/mpGrab-1.4.0-win64.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+</XML_DIZ_INFO>
