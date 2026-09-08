@@ -9,14 +9,14 @@
     <Company_Name>RockHouse</Company_Name>
     <Company_WebSite_URL>https://github.com/kawah24/mpGrab</Company_WebSite_URL>
     <Contact_Info>
-      <Contact_First_Name>FIRST_NAME_HERE</Contact_First_Name>
-      <Contact_Last_Name>LAST_NAME_HERE</Contact_Last_Name>
-      <Contact_Email>EMAIL_HERE</Contact_Email>
+      <Contact_First_Name>Elif</Contact_First_Name>
+      <Contact_Last_Name>Carlos</Contact_Last_Name>
+      <Contact_Email>houserockriff@gmail.com</Contact_Email>
     </Contact_Info>
     <Support_Info>
       <Sales_Email></Sales_Email>
-      <Support_Email>SUPPORT_EMAIL_HERE</Support_Email>
-      <General_Email>SUPPORT_EMAIL_HERE</General_Email>
+      <Support_Email>houserockriff@gmail.com</Support_Email>
+      <General_Email>houserockriff@gmail.com</General_Email>
       <Sales_Phone></Sales_Phone>
       <Support_Phone></Support_Phone>
       <General_Phone></General_Phone>
@@ -76,7 +76,7 @@ mpGrab is a download manager for personal use. Please respect the rights of cont
       <Application_Screenshot_URL_3>https://raw.githubusercontent.com/kawah24/mpGrab/main/Screenshot/Screenshot_3.jpg</Application_Screenshot_URL_3>
       <Application_Screenshot_URL_4>https://raw.githubusercontent.com/kawah24/mpGrab/main/Screenshot/Screenshot_4.jpg</Application_Screenshot_URL_4>
       <Application_Icon_URL>https://raw.githubusercontent.com/kawah24/mpGrab/main/assets/vidgrab.ico</Application_Icon_URL>
-      <Application_PAD_File_URL>PAD_URL_HERE</Application_PAD_File_URL>
+      <Application_PAD_File_URL>https://raw.githubusercontent.com/kawah24/mpGrab/main/pad_file.xml</Application_PAD_File_URL>
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://github.com/kawah24/mpGrab/releases/download/v1.4.0/mpGrab-1.4.0-setup.exe</Primary_Download_URL>
