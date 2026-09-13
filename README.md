@@ -50,13 +50,13 @@ Both buttons above open the latest Release. Pick `.exe` or `.zip` on that page.
 
 1. Install and start mpGrab.
 2. Paste a video link (mpGrab can even watch your clipboard) or use the built-in **Search** tab.
-3. Pick a format - Best quality, 1080p / 720p / 480p, MP3 or M4A - and a folder.
+3. Pick a format - MP4, WebM, MKV, MP3, M4A, OGG or WAV - a quality, and a folder.
 4. Click **Add to queue** and watch the queue: Portal, Title, Quality, Format and live progress.
 
 ## Highlights
 
 - **Search YouTube** directly and queue results with thumbnails
-- **Formats**: Best quality, 1080p / 720p / 480p, MP3 192 kbit/s, M4A
+- **Formats**: MP4, WebM, MKV, MP3 192 kbit/s, M4A, OGG, WAV - with 1080p / 720p / 480p quality selection
 - **Pause & resume** - pause a running download and continue it later without losing progress
 - **Download history** - finished downloads are remembered with one-click open-folder and re-download
 - **Clear queue table** - Portal, Title, Quality, Format and live progress for every item
