@@ -2,6 +2,9 @@
  mpGrab - by RockHouse (https://ko-fi.com/rockhouse)
 =========================================================
 
+LICENCE: free to use, personal or commercial. The full terms are in the
+LICENSE file: no redistribution or resale, no warranty, no liability.
+
 DISCLAIMER / LEGAL NOTICE
 
 mpGrab is provided "as is", without warranty of any kind, express or
