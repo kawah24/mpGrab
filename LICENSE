@@ -1,0 +1,66 @@
+mpGrab — End User Licence Agreement (Freeware)
+Copyright (c) 2026 RockHouse (kawah24). All rights reserved.
+
+This licence is the permission you get to use mpGrab. It covers the compiled
+program, the installer and the portable package distributed from this repository.
+
+1. WHAT YOU MAY DO
+
+   mpGrab is free of charge. You may install and use it on any number of computers
+   you own or control, for personal or commercial work, for as long as you like.
+   No account, registration or payment is required.
+
+2. WHAT YOU MAY NOT DO
+
+   a) Redistribute, mirror, re-upload or bundle the installer, the portable package
+      or any part of them - including on download sites, in software bundles or on
+      media you sell - without written permission.
+   b) Sell, rent, sublicense or otherwise charge for mpGrab itself.
+   c) Reverse engineer, decompile or disassemble the program, except where your
+      local law expressly allows it despite this restriction.
+   d) Remove or alter the copyright notices, the author's name, or the links to the
+      project page and the Ko-fi page.
+   e) Present mpGrab, or a modified build of it, as your own product.
+
+3. THIRD-PARTY COMPONENTS
+
+   mpGrab uses:
+
+     - yt-dlp        Unlicense (public domain)   download engine
+     - CustomTkinter CC0                         user interface toolkit
+
+   ffmpeg is NOT included and is not licensed under this agreement. If you install
+   it yourself, it is licensed separately by the FFmpeg project (LGPL or GPL,
+   depending on the build) and is governed by its own terms.
+
+4. NO WARRANTY
+
+   mpGrab is provided "as is", without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a
+   particular purpose and non-infringement. Downloads and conversions may fail when
+   a platform changes its service.
+
+5. LIMITATION OF LIABILITY
+
+   In no event shall the author be liable for any claim, damages or other liability
+   - including lost data, lost time or loss of profit - arising from the use of, or
+   the inability to use, this software.
+
+6. ACCEPTABLE USE
+
+   You are responsible for what you download. Use mpGrab only for content you own,
+   content offered under a licence that permits downloading, or content you have the
+   rightsholder's permission to save. You are responsible for complying with the
+   terms of service of each platform and with the copyright law of your country.
+   mpGrab is not affiliated with, endorsed by or sponsored by YouTube or any other
+   platform.
+
+7. TERMINATION
+
+   This licence ends automatically if you breach any of its terms. On termination
+   you must stop using mpGrab and delete all copies in your possession.
+
+8. CONTACT
+
+   https://ko-fi.com/rockhouse
+   https://github.com/kawah24/mpGrab
