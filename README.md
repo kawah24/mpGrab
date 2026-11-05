@@ -82,3 +82,9 @@ or reach [RockHouse](https://ko-fi.com/rockhouse) on Ko-fi - and if mpGrab saves
 ## Legal
 
 mpGrab is a download manager for personal use. Please respect the rights of content creators and the terms of service of the platforms you download from - mpGrab is not affiliated with YouTube or any other platform.
+
+## Licence
+
+Free to use, personal or commercial - see [LICENSE](LICENSE) for the full terms.
+In short: use it anywhere, do not redistribute or sell it, and only download content you have
+ the right to save.
